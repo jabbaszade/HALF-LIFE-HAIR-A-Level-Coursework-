@@ -1,0 +1,1 @@
+You'll have to ignore some of the questionable naming conventions, but multiple versions/updates of my code are here; in the 'old version' folder as well as my final version (incomplete) which is in the main directory.
